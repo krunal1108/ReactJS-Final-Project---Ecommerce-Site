@@ -1,26 +1,68 @@
 **Maria Fashion**
 
 
+
+
 Maria Fashion is a modern e-commerce web application developed using ReactJS. This project consists of two main parts: the **Admin Panel** and the **User Side** site. Both sections are integrated to provide a seamless experience for managing and browsing fashion products.
 
+
+
 **Features**
+
+
+
+
+
 
 **User Side**
 
 
+
+
 -> **Product Catalog:** Browse through a wide range of fashion products with detailed descriptions, prices, and images.
+
+
+
 -> **Search & Filter:** Easily find products using the search bar and filter options.
+
+
+
 -> **Shopping Cart:** Add products to the cart and proceed to checkout.
+
+
+
 -> **User Authentication:** Sign up, log in, and manage your account.
+
+
+
 -> **Responsive Design:** Optimized for both desktop and mobile devices.
 
+
+
+
+
+
 **Admin Panel**
+
+
 -> **Dashboard:** View sales statistics, recent orders.
+
+
+
 -> **Product Management:** Add, edit, or delete products from the catalog.
+
+
+
 -> **Secure Authentication:** Admin login with secure authentication protocols.
 
 
+
+
+
+
 **Technology Stack**
+
+
 
 **Frontend:** ReactJS, Redux, HTML5, CSS3, JavaScript
 
@@ -29,6 +71,10 @@ Maria Fashion is a modern e-commerce web application developed using ReactJS. Th
 
 
 **Version Control:** Git, GitHub
+
+
+
+
 
 **Full Website Screenshots**
 ![screencapture-localhost-5173-women-2024-08-25-22_13_39](https://github.com/user-attachments/assets/cf5cbbab-7609-4d25-b6f4-a62c481844b5)
