@@ -23,13 +23,6 @@ Maria Fashion is a modern e-commerce web application developed using ReactJS. Th
 
 
 
--> **Search & Filter:** Easily find products using the search bar and filter options.
-
-
-
--> **Shopping Cart:** Add products to the cart and proceed to checkout.
-
-
 
 -> **User Authentication:** Sign up, log in, and manage your account.
 
