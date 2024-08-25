@@ -97,8 +97,22 @@ Maria Fashion is a modern e-commerce web application developed using ReactJS. Th
 
 
 --------------------
-****
+**Admin Panel - Home**
 ![screencapture-localhost-5173-2024-08-25-22_15_35](https://github.com/user-attachments/assets/fd9c3d6a-920c-4690-96de-74a007473d29)
+
+
+
+
+
+---------------------
+**Admin Panel - Order**
 ![screencapture-localhost-5173-order-2024-08-25-22_15_48](https://github.com/user-attachments/assets/00d4112b-3126-469f-8959-4c809c66989d)
+
+
+
+
+
+---------------------
+**Admin Panel - **
 ![screencapture-localhost-5173-inventory-2024-08-25-22_16_02](https://github.com/user-attachments/assets/417425ad-7788-4bb0-970b-7c10bb12b7aa)
 ![screencapture-localhost-5173-upload-2024-08-25-22_16_38](https://github.com/user-attachments/assets/22df0e47-4ec7-4144-a880-ba620fe5a9d2)
